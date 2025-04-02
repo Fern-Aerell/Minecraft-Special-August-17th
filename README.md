@@ -1,10 +1,10 @@
-# Minecraft Spesial Kemerdekaan
+# Minecraft Special August 17th
 
-![Logo Minecraft Kemerdekaan](resources/title/minecraft_title.png)
+![Minecraft Special August 17th Logo](resources/title/minecraft_title.png)
 
-Ini adalah repo untuk mod dan addon Minecraft spesial 17 agustus.
+This is the repository for a Minecraft mod and addon special for August 17th.
 
-## Teknologi Yang Digunakan
+## Technologies Used
 - Visual Studio Code
 - Adobe Photoshop
 - Blockbench
@@ -13,9 +13,9 @@ Ini adalah repo untuk mod dan addon Minecraft spesial 17 agustus.
 - Javascript
 - Typescript
 
-## Cara pasang
-- Belum ada
+## Installation Instructions
+- Not available yet
 
-Changelog : [Lihat disini](CHANGELOG.md)
+Changelog: [View here](CHANGELOG.md)
 
-Terimakasih telah mengunjungi github kami.
+Thank you for visiting our GitHub!
