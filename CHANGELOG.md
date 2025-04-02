@@ -26,11 +26,10 @@
 
 ### New Emotes (Addon, Forge, Fabric)
 - Stop
-- Salute
+- Hormat
 
 ## New Creative Tab (Forge, Fabric)
-- Independence Tab
-
+- Kemerdekaan Tab
 <br>
 <br>
 
