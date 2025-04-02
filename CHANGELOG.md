@@ -2,38 +2,39 @@
 
 ## Latest Version 1.12.0-INDEV (17/08/2023)
 
-### Music Disc Baru
-- Mengganti 3 disc minecraft (Addon)
-    - Record 13 -> lagu 17 agustus
-    - Record cat -> lagu indonesia raya
-    - Record block -> lagu maju tak gentar
-- Menambahkan 3 music disc baru (Forge, Fabric)
-    - Lagu 17 agustus
-    - Lagu indonesia raya
-    - Lagu maju tak gentar
+### New Music Discs
+- Replaced 3 Minecraft discs (Addon)
+    - Record 13 -> August 17th song
+    - Record Cat -> Indonesia Raya song
+    - Record Block -> Maju Tak Gentar song
+- Added 3 new music discs (Forge, Fabric)
+    - August 17th song
+    - Indonesia Raya song
+    - Maju Tak Gentar song
 
-### Leather Baru (Addon, Forge, Fabric)
-- Menambahkan 2 leather baru
-- Leather merah dan leather putih
+### New Leather (Addon, Forge, Fabric)
+- Added 2 new leather items
+    - Red leather
+    - White leather
 
-### Helmet baru (Addon, Forge, Fabric)
-- Bandana indonesia
-- Dengan texture baru
+### New Helmet (Addon, Forge, Fabric)
+- Indonesia Bandana
+    - With a new texture
 
-### Item baru "Bendera Indonesia" (Addon, Forge, Fabric)
-- Untuk saat ini, item ini cuma pajangan
+### New Item "Indonesian Flag" (Addon, Forge, Fabric)
+- Currently, this item is just for decoration
 
-### Emote Baru (Addon, Forge, Fabric)
+### New Emotes (Addon, Forge, Fabric)
 - Stop
-- Hormat
+- Salute
 
-## Creative Tab Baru (Forge, Fabric)
-- Kemerdekaan Tab
+## New Creative Tab (Forge, Fabric)
+- Independence Tab
 
 <br>
 <br>
 
 ## 1.0.0-INDEV (15/08/2023)
 
-### Logo Title Baru
-![Title Logo Baru](resources/title/minecraft_title.png)
+### New Title Logo
+![New Title Logo](resources/title/minecraft_title.png)
